@@ -1,4 +1,4 @@
-# cookiecutter-shellm
+# cookiecutter-awesome
 Cookiecutter to create an [awesome][awesome] list.
 
 - [Features](#features)
@@ -30,6 +30,7 @@ cookiecutter gh:Pawamoy/cookiecutter-awesome
 cookiecutter https://github.com/Pawamoy/cookiecutter-awesome
 ```
 
+Once your project has been generated:
 - Run `awesome_bot README.md` to verify the links.
 - Activate your repository in your Travis account.
 - **Please read [the PR requirements][pr-requirements]**
