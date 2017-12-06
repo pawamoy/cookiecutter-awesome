@@ -1,5 +1,5 @@
 # cookiecutter-shellm
-Cookiecutter to create an [awesome](https://github.com/sindresorhus/awesome) list.
+Cookiecutter to create an [awesome][awesome] list.
 
 - [Features](#features)
 - [Requirements](#requirements)
@@ -11,18 +11,17 @@ Cookiecutter to create an [awesome](https://github.com/sindresorhus/awesome) lis
 - [License](#license)
 
 ## Features
-- Creative Commons CC0 1.0 Universal License (as recommended in
-  [awesome's manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)).
+- Creative Commons CC0 1.0 Universal License (as recommended in awesome's
+  [manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)).
 - Travis configuration with [awesome_bot][awesome_bot] check.
 - Changelog, code of conduct, contributing, and pull request template files.
-- Readme optionally updated with [DocToc][doctoc].
+- Compliant with awesome's [PR requirements][pr-requirements].
 
 ## Requirements
 - [git](https://git-scm.com/downloads)
 - [python](https://www.python.org/downloads/)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
 - ([awesome_bot][awesome_bot])
-- ([DocToc][doctoc])
 
 ## Usage
 ```bash
@@ -31,9 +30,10 @@ cookiecutter gh:Pawamoy/cookiecutter-awesome
 cookiecutter https://github.com/Pawamoy/cookiecutter-awesome
 ```
 
-- Activate your repository in your Travis account.
-- Run `doctoc README.md` to update the table of contents.
 - Run `awesome_bot README.md` to verify the links.
+- Activate your repository in your Travis account.
+- **Please read [the PR requirements][pr-requirements]**
+  before submitting a Pull Request to [awesome][awesome].
 
 ## Example
 See the [awesome-repository](https://github.com/Pawamoy/awesome-repository) list.
@@ -56,5 +56,6 @@ Also see [AUTHORS](AUTHORS.md).
 ## License
 See [LICENSE](LICENSE).
 
+[awesome]: https://github.com/sindresorhus/awesome
 [awesome_bot]: https://github.com/dkhamsing/awesome_bot
-[doctoc]: https://github.com/thlorenz/doctoc
+[pr-requirements]: https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md
