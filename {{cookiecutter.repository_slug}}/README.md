@@ -1,4 +1,4 @@
-# {{cookieuctter.repository_slug}} [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome) [![Build Status][travis-badge]](https://travis-ci.org/{{cookiecutter.repository_namespace}}/{{cookiecutter.repository_slug}})
+# {{cookiecutter.repository_slug}} [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome) [![Build Status][travis-badge]](https://travis-ci.org/{{cookiecutter.repository_namespace}}/{{cookiecutter.repository_slug}})
 
 {{cookiecutter.repository_description}}
 
@@ -18,7 +18,7 @@
 ### Section Title
 Section description (optional).
 
-- [Item](https://github.com/user/repo) –
+- [Item](https://github.com/Pawamoy/cookiecutter-awesome) –
   Item short description.
 
 ## Contribute

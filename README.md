@@ -31,6 +31,7 @@ cookiecutter gh:Pawamoy/cookiecutter-awesome
 cookiecutter https://github.com/Pawamoy/cookiecutter-awesome
 ```
 
+- Activate your repository in your Travis account.
 - Run `doctoc README.md` to update the table of contents.
 - Run `awesome_bot README.md` to verify the links.
 
