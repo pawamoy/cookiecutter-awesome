@@ -35,11 +35,7 @@ cookiecutter https://github.com/Pawamoy/cookiecutter-awesome
 - Run `awesome_bot README.md` to verify the links.
 
 ## Example
-This cookiecutter was created using contents from
-[cookie-cookie](https://github.com/tuxredux/cookie-cookie) and the
-[awesome-repository](https://github.com/Pawamoy/awesome-repository) list,
-which itself was generated with this
-[Yeoman generator](https://github.com/dar5hak/generator-awesome-list).
+See the [awesome-repository](https://github.com/Pawamoy/awesome-repository) list.
 
 ## Development
 See [CONTRIBUTING](CONTRIBUTING.md).
@@ -48,7 +44,13 @@ See [CONTRIBUTING](CONTRIBUTING.md).
 See [CHANGELOG](CHANGELOG.md).
 
 ## Credits
-See [AUTHORS](AUTHORS.md).
+This cookiecutter was created using contents from
+[cookie-cookie](https://github.com/tuxredux/cookie-cookie) and the
+[awesome-repository](https://github.com/Pawamoy/awesome-repository) list,
+which itself was generated with this
+[Yeoman generator](https://github.com/dar5hak/generator-awesome-list).
+
+Also see [AUTHORS](AUTHORS.md).
 
 ## License
 See [LICENSE](LICENSE).
