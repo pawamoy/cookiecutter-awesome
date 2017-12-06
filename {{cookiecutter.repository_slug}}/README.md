@@ -3,7 +3,7 @@
 {{cookiecutter.repository_description}}
 
 ## Contents
-- [Section 1 Title](#section-title)
+- [Section Title](#section-title)
 
 ### Section Title
 Section description (optional).
