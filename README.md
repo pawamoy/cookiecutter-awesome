@@ -25,9 +25,9 @@ Cookiecutter to create an [awesome][awesome] list.
 
 ## Usage
 ```bash
-cookiecutter gh:Pawamoy/cookiecutter-awesome
+cookiecutter gh:moodule/cookiecutter-awesome
 # OR
-cookiecutter https://github.com/Pawamoy/cookiecutter-awesome
+cookiecutter https://github.com/moodule/cookiecutter-awesome
 ```
 
 Once your project has been generated:
@@ -37,7 +37,7 @@ Once your project has been generated:
   before submitting a Pull Request to [awesome][awesome].
 
 ## Example
-See the [awesome-repository](https://github.com/Pawamoy/awesome-repository) list.
+See the [awesome-repository](https://github.com/sindresorhus/awesome) list.
 
 ## Development
 See [CONTRIBUTING](CONTRIBUTING.md).
@@ -48,7 +48,7 @@ See [CHANGELOG](CHANGELOG.md).
 ## Credits
 This cookiecutter was created using contents from
 [cookie-cookie](https://github.com/tuxredux/cookie-cookie) and the
-[awesome-repository](https://github.com/Pawamoy/awesome-repository) list,
+[cookiecutter-awesome](https://github.com/Pawamoy/cookiecutter-awesome) template,
 which itself was generated with this
 [Yeoman generator](https://github.com/dar5hak/generator-awesome-list).
 
