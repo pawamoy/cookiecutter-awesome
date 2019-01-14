@@ -1,7 +1,7 @@
 # Authors
 
 ## Project Lead
-[David Mougeolle](https://github.com/Moodule) &lt;david.mougeolle@moodule.net&gt;
+[Timothée Mazzucotelli](https://github.com/Pawamoy) &lt;timothee.mazzucotelli@gmail.com&gt;
 
 ## Contributors
-None yet. [Why not be the first?](CONTRIBUTING.md)
+[David Mougeolle](https://github.com/Moodule) &lt;david.mougeolle@moodule.net&gt;
