@@ -1,6 +1,6 @@
 # {{cookiecutter.repository_slug}} [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
-{{cookiecutter.repository_description}}
+{{cookiecutter.repository_summary}}
 
 ## Contents
 - [Section Title](#section-title)

@@ -1,7 +1,9 @@
 {
   "author_name": "David Mougeolle",
   "author_email": "david.mougeolle@moodule.net",
+
   "repository_slug": "awesome-example-list",
-  "repository_description": "An example cookiecutter-awesome project template.",
+  "repository_summary": "An example cookiecutter-awesome project template.",
+
   "copyright_holder": "{{cookiecutter.author_name}}"
 }
