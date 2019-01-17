@@ -24,9 +24,13 @@ Anything tagged with "help wanted" is open to whoever wants to implement it.
 
 ## Merge/Pull Request Guidelines
 
-Make sure to have atomic commits and contextual commit messages!
-
-[Check out this awesome blog post by Chris Beams for more information.][3]
+Before you submit a pull request, check that it meets these guidelines:
+1. Make sure to have atomic commits and contextual commit messages!
+  [Check out this awesome blog post by Chris Beams for more information.][3]
+2. The pull request should include tests.
+3. If the pull request adds functionality, the docs should be updated:
+  1. Put your new functionality into a function with a docstring
+  2. Add the feature to the list in README.md.
 
 [1]: https://github.com/Pawamoy/cookiecutter-awesome/issues/new
 [2]: https://github.com/Pawamoy/cookiecutter-awesome/compare
