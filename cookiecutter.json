@@ -3,7 +3,11 @@
   "author_email": "david.mougeolle@moodule.net",
 
   "repository_slug": "awesome-example-list",
+  "repository_tagline": "A curated list of awesome examples :tada:",
   "repository_summary": "An example cookiecutter-awesome project template.",
+
+  "remote_provider": ["github.com", "gitlab.com", "bitbucket.org", "none"],
+  "remote_username": "moodule",
 
   "copyright_holder": "{{cookiecutter.author_name}}"
 }
