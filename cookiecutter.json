@@ -7,7 +7,9 @@
   "repository_summary": "An example cookiecutter-awesome project template.",
 
   "remote_provider": ["github.com", "gitlab.com", "bitbucket.org", "none"],
+  "remote_protocol": ["https", "ssh"],
   "remote_username": "moodule",
+  "remote_namespace": "{{ cookiecutter.remote_username }}",
 
   "copyright_holder": "{{cookiecutter.author_name}}"
 }
