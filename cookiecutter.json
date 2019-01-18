@@ -2,6 +2,7 @@
   "author_name": "David Mougeolle",
   "author_email": "david.mougeolle@moodule.net",
 
+  "repository_name": "Awesome Example List",
   "repository_slug": "awesome-example-list",
   "repository_tagline": "A curated list of awesome examples :tada:",
   "repository_summary": "An example cookiecutter-awesome project template.",
