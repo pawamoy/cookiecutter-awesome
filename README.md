@@ -1,16 +1,21 @@
 # cookiecutter-awesome
 Cookiecutter to create an [awesome][awesome] list.
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Documentation](#documentation)
+- [Example](#example)
 - [Development](#development)
-- [History](#history)
+  - [History](#history)
+  - [Community](#community)
 - [Credits](#credits)
 - [License](#license)
 
 ## Features
+
 - Creative Commons CC0 1.0 Universal License (as recommended in awesome's
   [manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)).
 - Travis configuration with [awesome_bot][awesome_bot] check.
@@ -18,12 +23,14 @@ Cookiecutter to create an [awesome][awesome] list.
 - Compliant with awesome's [PR requirements][pr-requirements].
 
 ## Requirements
+
 - [git](https://git-scm.com/downloads)
 - [python](https://www.python.org/downloads/)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
 - ([awesome_bot][awesome_bot])
 
 ## Usage
+
 ```bash
 cookiecutter gh:moodule/cookiecutter-awesome
 # OR
@@ -37,15 +44,23 @@ Once your project has been generated:
   before submitting a Pull Request to [awesome][awesome].
 
 ## Example
+
 See the [awesome-repository](https://github.com/sindresorhus/awesome) list.
 
 ## Development
-See [CONTRIBUTING](CONTRIBUTING.md).
 
-## History
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+### History
+
 See [CHANGELOG](CHANGELOG.md).
 
+### Community
+
+See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
+
 ## Credits
+
 This cookiecutter was created using contents from
 [cookie-cookie](https://github.com/tuxredux/cookie-cookie) and the
 [cookiecutter-awesome](https://github.com/Pawamoy/cookiecutter-awesome) template,
@@ -55,6 +70,7 @@ which itself was generated with this
 Also see [AUTHORS](AUTHORS.md).
 
 ## License
+
 See [LICENSE](LICENSE).
 
 [awesome]: https://github.com/sindresorhus/awesome
