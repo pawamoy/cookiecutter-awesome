@@ -11,6 +11,7 @@ Cookiecutter to create an [awesome][awesome] list.
 - [Development](#development)
   - [History](#history)
   - [Community](#community)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Credits](#credits)
 - [License](#license)
 
@@ -58,6 +59,13 @@ See [CHANGELOG](CHANGELOG.md).
 ### Community
 
 See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
+
+## Other Awesome Lists
+
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [The Warren](https://github.com/torchhound/warren)
 
 ## Credits
 
