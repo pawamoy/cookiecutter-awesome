@@ -1,5 +1,5 @@
 # cookiecutter-awesome
-Cookiecutter to create an [awesome][awesome] list.
+Cookiecutter to create an [awesome][awesome-list] list.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Cookiecutter to create an [awesome][awesome] list.
 ## Features
 
 - Creative Commons CC0 1.0 Universal License (as recommended in awesome's
-  [manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)).
+  [manifesto][manifesto]).
 - Travis configuration with [awesome_bot][awesome_bot] check.
 - Changelog, code of conduct, contributing, and pull request template files.
 - Compliant with awesome's [PR requirements][pr-requirements].
@@ -42,11 +42,11 @@ Once your project has been generated:
 - Run `awesome_bot README.md` to verify the links.
 - Activate your repository in your Travis account.
 - **Please read [the PR requirements][pr-requirements]**
-  before submitting a Pull Request to [awesome][awesome].
+  before submitting a Pull Request to [awesome][awesome-list].
 
 ## Example
 
-See the [awesome-repository](https://github.com/sindresorhus/awesome) list.
+See the [awesome-repository][awesome-list] list.
 
 ## Development
 
@@ -64,13 +64,12 @@ See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [sindresorhus/awesome][awesome-list]
 * [The Warren](https://github.com/torchhound/warren)
 
 ## Credits
 
-This cookiecutter was created using contents from
-[cookie-cookie](https://github.com/tuxredux/cookie-cookie) and the
+This cookiecutter was created using contents from the
 [cookiecutter-awesome](https://github.com/Pawamoy/cookiecutter-awesome) template,
 which itself was generated with this
 [Yeoman generator](https://github.com/dar5hak/generator-awesome-list).
@@ -81,6 +80,7 @@ Also see [AUTHORS](AUTHORS.md).
 
 See [LICENSE](LICENSE).
 
-[awesome]: https://github.com/sindresorhus/awesome
+[awesome-list]: https://github.com/sindresorhus/awesome
 [awesome_bot]: https://github.com/dkhamsing/awesome_bot
+[manifesto]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [pr-requirements]: https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md
