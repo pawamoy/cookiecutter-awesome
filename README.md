@@ -48,7 +48,7 @@ Once your project has been generated:
 
 The [awesome-repository][awesome-repository] was made with this cookiecutter.
 
-It lists resources to guide contribution to the awesome project and open source in general.
+It lists services, tools and standards about open source repository management.
 
 ## Development
 
