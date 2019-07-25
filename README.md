@@ -1,5 +1,5 @@
 # cookiecutter-awesome
-Cookiecutter to create an [awesome][awesome-list] list.
+Cookiecutter to create an [awesome][awesome-awesome] list.
 
 ## Table of Contents
 
@@ -11,15 +11,15 @@ Cookiecutter to create an [awesome][awesome-list] list.
 - [Development](#development)
   - [History](#history)
   - [Community](#community)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Awesome Lists](#other-awesome-awesomes)
 - [Credits](#credits)
 - [License](#license)
 
 ## Features
 
 - Creative Commons CC0 1.0 Universal License (as recommended in awesome's
-  [manifesto][manifesto]).
-- Travis configuration with [awesome_bot][awesome_bot] check.
+  [manifesto][awesome-manifesto]).
+- Travis configuration with [awesome_bot][awesome-bot] check.
 - Changelog, code of conduct, contributing, and pull request template files.
 - Compliant with awesome's [PR requirements][pr-requirements].
 
@@ -28,7 +28,7 @@ Cookiecutter to create an [awesome][awesome-list] list.
 - [git](https://git-scm.com/downloads)
 - [python](https://www.python.org/downloads/)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
-- ([awesome_bot][awesome_bot])
+- ([awesome_bot][awesome-bot])
 
 ## Usage
 
@@ -42,13 +42,13 @@ Once your project has been generated:
 - Run `awesome_bot README.md` to verify the links.
 - Activate your repository in your Travis account.
 - **Please read [the PR requirements][pr-requirements]**
-  before submitting a Pull Request to [awesome][awesome-list].
+  before submitting a Pull Request to [awesome][awesome-awesome].
 
-## Example
+## Examples
 
-The [awesome-repository][awesome-repository] lists resources to guide contribution to the awesome project and open source in general.
+The [awesome-repository][awesome-repository] was made with this cookiecutter.
 
-See the [root of the project][awesome-list] for an awesome list of awesome lists!
+It lists resources to guide contribution to the awesome project and open source in general.
 
 ## Development
 
@@ -66,7 +66,7 @@ See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome][awesome-list]
+* [sindresorhus/awesome][awesome-awesome]
 * [The Warren](https://github.com/torchhound/warren)
 
 ## Credits
@@ -74,7 +74,7 @@ See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 This cookiecutter was created using contents from the
 [cookiecutter-awesome](https://github.com/Pawamoy/cookiecutter-awesome) template,
 which itself was generated with this
-[Yeoman generator](https://github.com/dar5hak/generator-awesome-list).
+[Yeoman generator](https://github.com/dar5hak/generator-awesome-awesome).
 
 Also see [AUTHORS](AUTHORS.md).
 
@@ -82,8 +82,8 @@ Also see [AUTHORS](AUTHORS.md).
 
 See [LICENSE](LICENSE).
 
-[awesome-list]: https://github.com/sindresorhus/awesome
+[awesome-awesome]: https://github.com/sindresorhus/awesome
+[awesome-bot]: https://github.com/dkhamsing/awesome_bot
+[awesome-manifesto]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [awesome-repository]: https://github.com/Pawamoy/awesome-repository
-[awesome_bot]: https://github.com/dkhamsing/awesome_bot
-[manifesto]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [pr-requirements]: https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md
