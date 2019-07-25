@@ -1,8 +1,16 @@
 {
-  "author_name": "Timothée Mazzucotelli",
-  "author_email": "timothee.mazzucotelli@gmail.com",
-  "repository_namespace": "Pawamoy",
+  "author_name": "Author Name",
+  "author_email": "author.name@domain.com",
+
+  "repository_name": "Awesome Example List",
   "repository_slug": "awesome-example-list",
-  "repository_description": "An example cookiecutter-awesome project template.",
+  "repository_tagline": "A curated list of awesome examples :tada:",
+  "repository_summary": "An example cookiecutter-awesome project template.",
+
+  "remote_provider": ["github.com", "gitlab.com", "bitbucket.org", "none"],
+  "remote_protocol": ["https", "ssh"],
+  "remote_username": "author",
+  "remote_namespace": "{{ cookiecutter.remote_username }}",
+
   "copyright_holder": "{{cookiecutter.author_name}}"
 }
