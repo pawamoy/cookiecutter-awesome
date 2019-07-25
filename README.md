@@ -72,9 +72,8 @@ See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 ## Credits
 
 This cookiecutter was created using contents from the
-[cookiecutter-awesome](https://github.com/Pawamoy/cookiecutter-awesome) template,
-which itself was generated with this
-[Yeoman generator](https://github.com/dar5hak/generator-awesome-awesome).
+[cookie-cookie template](https://github.com/tuxredux/cookie-cookie) and the
+[Yeoman generator](https://github.com/dar5hak/generator-awesome-list).
 
 Also see [AUTHORS](AUTHORS.md).
 
