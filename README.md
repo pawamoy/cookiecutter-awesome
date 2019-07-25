@@ -33,9 +33,9 @@ Cookiecutter to create an [awesome][awesome-awesome] list.
 ## Usage
 
 ```bash
-cookiecutter gh:moodule/cookiecutter-awesome
+cookiecutter gh:pawamoy/cookiecutter-awesome
 # OR
-cookiecutter https://github.com/moodule/cookiecutter-awesome
+cookiecutter https://github.com/pawamoy/cookiecutter-awesome
 ```
 
 Once your project has been generated:
@@ -85,5 +85,5 @@ See [LICENSE](LICENSE).
 [awesome-awesome]: https://github.com/sindresorhus/awesome
 [awesome-bot]: https://github.com/dkhamsing/awesome_bot
 [awesome-manifesto]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
-[awesome-repository]: https://github.com/Pawamoy/awesome-repository
+[awesome-repository]: https://github.com/pawamoy/awesome-repository
 [pr-requirements]: https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md
