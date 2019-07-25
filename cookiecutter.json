@@ -1,6 +1,6 @@
 {
-  "author_name": "David Mougeolle",
-  "author_email": "david.mougeolle@moodule.net",
+  "author_name": "Author Name",
+  "author_email": "author.name@domain.com",
 
   "repository_name": "Awesome Example List",
   "repository_slug": "awesome-example-list",
@@ -9,7 +9,7 @@
 
   "remote_provider": ["github.com", "gitlab.com", "bitbucket.org", "none"],
   "remote_protocol": ["https", "ssh"],
-  "remote_username": "moodule",
+  "remote_username": "author",
   "remote_namespace": "{{ cookiecutter.remote_username }}",
 
   "copyright_holder": "{{cookiecutter.author_name}}"
