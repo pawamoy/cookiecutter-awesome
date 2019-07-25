@@ -46,7 +46,9 @@ Once your project has been generated:
 
 ## Example
 
-See the [awesome-repository][awesome-list] list.
+The [awesome-repository][awesome-repository] lists resources to guide contribution to the awesome project and open source in general.
+
+See the [root of the project][awesome-list] for an awesome list of awesome lists!
 
 ## Development
 
@@ -81,6 +83,7 @@ Also see [AUTHORS](AUTHORS.md).
 See [LICENSE](LICENSE).
 
 [awesome-list]: https://github.com/sindresorhus/awesome
+[awesome-repository]: https://github.com/Pawamoy/awesome-repository
 [awesome_bot]: https://github.com/dkhamsing/awesome_bot
 [manifesto]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [pr-requirements]: https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md
