@@ -27,6 +27,5 @@ Thank you for your suggestions!
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.
 
-[issue-link]: {% if cookiecutter.remote_provider == "none" %}mailto:{{cookiecutter.author_email}}{% else %}https://{{cookiecutter.remote_provider}}/{{cookiecutter.remote_namespace}}/{{cookiecutter.repository_slug}}/issues/new{% endif %}
 [merge-link]: {% if cookiecutter.remote_provider == "none" %}mailto:{{cookiecutter.author_email}}{% else %}https://{{cookiecutter.remote_provider}}/{{cookiecutter.remote_namespace}}/{{cookiecutter.repository_slug}}/{% if cookiecutter.remote_provider == "github.com" %}compare{% elif cookiecutter.remote_provider == "gitlab.com" %}merge_requests/new{% elif cookiecutter.remote_provider == "bitbucket.org" %}pull-requests/new{% endif %}{% endif %}
 [chris-beams]: http://chris.beams.io/posts/git-commit/

@@ -31,8 +31,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Credits
 
-See [AUTHORS](AUTHORS.md)
-
 This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
 ## License
